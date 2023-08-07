@@ -1,0 +1,1 @@
+- 👋 Jr. DevOps Engineer | Python | Azure DevOps | AKS | Bitbucket | Terraform | GitHub Actions, Docker, Kubernetes, Jenkins, Prometheus, Grafana, SonarQube | IT Support
