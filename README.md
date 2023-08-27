@@ -1,1 +1,1 @@
-- 👋 Jr. DevOps Engineer and FullStack developer | Python | Azure DevOps | AKS | Bitbucket | Terraform | GitHub Actions, Docker, Kubernetes, Jenkins, Prometheus, Grafana, SonarQube | IT Support
+- 👋 DevOps and Frontend developer | Python | Azure DevOps | AKS | Bitbucket | Terraform | GitHub Actions, Docker, Kubernetes, Jenkins, Prometheus, Grafana, SonarQube | IT Support
