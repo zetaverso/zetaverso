@@ -1,1 +1,1 @@
-- 👋 DevOps and Frontend developer | Python | Azure DevOps | AKS | Bitbucket | Terraform | GitHub Actions, Docker, Kubernetes, Jenkins, Prometheus, Grafana, SonarQube | IT Support
+- 👋 DevOps | Azure DevOps, GitHub, Docker, Kubernetes, Terraform | Entregando software de alto impacto con automatización e innovación.
