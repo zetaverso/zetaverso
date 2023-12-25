@@ -1,1 +1,1 @@
-- 👋 DevOps | Azure DevOps, GitHub, Docker, Kubernetes, Terraform | Entregando software de alto impacto con automatización e innovación.
+- 👋 Software Developer  | Cloud Engineer (Azure | AWS | GCP)
