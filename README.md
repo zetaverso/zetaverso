@@ -1,11 +1,6 @@
-# 💫 About Me:
- IBM Certified Full-Stack Developer with extensive experience developing scalable web and mobile applications. Proficient in Frontend (React, Angular, Flutter) and Backend technologies (Node.js, Flask/Django, NestJS). My knowledge in cloud (Azure, GCP, AWS) and DevOps (Docker, Kubernetes) is backed by IBM, Azure and Google Cloud certifications. Delivering high impact software
-with automation and innovation.<br>
-- Portfolio: https://polite-sea-00853ca10.3.azurestaticapps.net
-- My latest app: https://purpula.azurewebsites.net/
+Senior Full-Stack Engineer & Cloud Architect specialized in building scalable web and mobile ecosystems. I design resilient backend systems and high-performance frontends, backed by professional certifications from IBM, Azure, and Google Cloud. Focused on clean code and high-availability architecture.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zetaverso/) 
+🔗 Portfolio: polite-sea-00853ca10.3.azurestaticapps.net
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sgyl.vercel.app/api?username=zetaverso&theme=omni&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true)<br/>
